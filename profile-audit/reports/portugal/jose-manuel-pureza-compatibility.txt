@@ -1,0 +1,17 @@
+--- FILTRO DE RELIGIAO: catholic (usuario que escolheu catholic) ---
+
+=== TOP 2 PERSONALIDADES ===
+96.8%  Karl Polanyi (karl-polanyi)
+96.5%  Paulo Raimundo (paulo-raimundo)
+
+=== TOP 2 IDEOLOGIAS ===
+96.7%  Progressismo Cristão (progressismo-cristao)
+96.1%  Socialismo Democrático (socialismo-democratico)
+
+=== TOP 2 PAISES ===
+94.1%  Chile de Allende (chile-de-allende)
+92.2%  País de Gales (Reino Unido) (pais-de-gales)
+
+=== TOP 2 PARTIDOS E ORGANIZACOES ===
+96.2%  Movimento dos Trabalhadores Rurais Sem Terra (MST) (movimento-dos-trabalhadores-rurais-sem-terra)
+95.9%  Pacto Histórico (PH) (pacto-historico)

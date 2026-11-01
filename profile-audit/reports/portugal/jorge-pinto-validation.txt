@@ -1,0 +1,46 @@
+validando personality:jorge-pinto
+  C:\Users\rui_f\Documents\Codex\2026-10-31\https-github-com-romancypherpunk-12axes-https-2\work\12axes\profile-audit\subagent-out\personality\jorge-pinto.json
+
+[ARQUETIPO] sociedade D · poder C · economia B · mundo C · tecnologia C
+[NEUTROS] total 5/240 = 2.1%
+[RELIGIAO] religiao=76.2 · religions=[]
+
+[CONTEUDO] vetor e direcao real dos eixos
+  eixo             valor  0 <--------> 100
+  estrutura         55.7  centralizado/unitario <-> descentralizado/federal
+  representacao     95.4  autocracia <-> democracia
+  poder             25.8  liberdade civil <-> ordem/vigilancia
+  imigracao         11.7  multicultural/aberto <-> assimilacionista/fechado
+  diplomacia        18.1  pacifista <-> militarista
+  intervencao       60.1  nacionalista assertivo <-> nao-intervencionista
+  economia          81.0  privado/mercado <-> publico/coletivo
+  controle          78.1  livre mercado <-> planejamento
+  comercio          51.4  livre comercio/globalista <-> protecionista
+  religiao          76.2  religioso <-> irreligioso/secular
+  moral             89.5  tradicionalista <-> progressista
+  tecnologia        36.9  biologia/naturalista <-> tecnofilo
+
+[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)
+  estrutura         55.7   | Josef Stálin=0 .. Murray Rothbard=96
+  representacao     95.4   | Kim Jong Un=6 .. José Mujica=86
+  poder             25.8   | Murray Rothbard=1 .. Josef Stálin=99
+  imigracao         11.7   | Justin Trudeau=22 .. Adolf Hitler=100
+  diplomacia        18.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100
+  intervencao       60.1   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71
+  economia          81.0   | Murray Rothbard=6 .. Josef Stálin=94
+  controle          78.1   | Murray Rothbard=5 .. Josef Stálin=100
+  comercio          51.4   | Milton Friedman=10 .. Adolf Hitler=96
+  religiao          76.2   | Ruhollah Khomeini=2 .. Josef Stálin=98
+  moral             89.5   | Francisco Franco=2 .. Michel Foucault=91
+  tecnologia        36.9   | Ted Kaczynski=5 .. Ray Kurzweil=86
+
+[CONTEUDO] mais proximos em personality (duplicata?)
+   97.8%  guilherme-boulos  <<< BLOQUEIA
+   97.7%  zohran-mamdani  <<< BLOQUEIA
+   97.6%  mark-fisher  <<< BLOQUEIA
+
+
+ERROS (bloqueiam o merge):
+  [CONTEUDO] 97.8% identico a 'guilherme-boulos' - perfil redundante, nao acrescenta nada ao catalogo
+  [CONTEUDO] 97.7% identico a 'zohran-mamdani' - perfil redundante, nao acrescenta nada ao catalogo
+  [CONTEUDO] 97.6% identico a 'mark-fisher' - perfil redundante, nao acrescenta nada ao catalogo

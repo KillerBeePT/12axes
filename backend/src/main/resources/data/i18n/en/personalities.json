@@ -4370,5 +4370,81 @@
     "name": "Felipe d'Avila",
     "role": "Novo candidate in 2022",
     "description": "Political scientist and founder of the Centro de Liderança Pública, he was the Novo party's 2022 presidential candidate, with under 1% of the vote. He defended a lean state, privatizations, administrative and tax reform, and economic freedom."
+  },
+  {
+    "id": "andre-ventura",
+    "name": "André Ventura",
+    "role": "Chega founder",
+    "lifespan": "1983–",
+    "description": "Founder and leader of Portugal’s Chega party. Advocates immigration controls, tougher sentencing, traditional family and Christian identity, combining tax cuts with welfare support and protection of national sectors."
+  },
+  {
+    "id": "antonio-costa",
+    "name": "António Costa",
+    "role": "European Council president",
+    "description": "Prime minister of Portugal from 2015 to 2024 and European Council president since 2024. Combines public services, redistribution and fiscal discipline with European integration, civil rights and a market economy."
+  },
+  {
+    "id": "ines-sousa-real",
+    "name": "Inês de Sousa Real",
+    "role": "PAN spokesperson",
+    "description": "Portuguese MP and PAN spokesperson. A lawyer associated with animal protection, she advocates social and environmental justice, fundamental rights, sustainable diets and ethical regulation of artificial intelligence."
+  },
+  {
+    "id": "joao-cotrim-figueiredo",
+    "name": "João Cotrim de Figueiredo",
+    "role": "Former Liberal Initiative head",
+    "description": "Led Portugal’s Liberal Initiative from 2019 to 2023 and became an MEP in 2024. Advocates competition in services, lower taxes, European integration and individual freedoms, including civil rights and assisted dying."
+  },
+  {
+    "id": "jorge-pinto",
+    "name": "Jorge Pinto",
+    "role": "Livre co-spokesperson",
+    "description": "Portuguese MP and Livre co-spokesperson. A theorist of green republicanism, he advocates freedom from domination, basic income, ecological limits and citizen participation in European integration."
+  },
+  {
+    "id": "jose-luis-carneiro",
+    "name": "José Luís Carneiro",
+    "role": "PS secretary-general",
+    "lifespan": "1971–",
+    "description": "Leader of Portugal’s Socialist Party and former interior minister. Advocates public services, a regulated market, decentralisation and European integration, combining institutional dialogue with Christian humanism."
+  },
+  {
+    "id": "jose-manuel-pureza",
+    "name": "José Manuel Pureza",
+    "role": "Left Bloc coordinator",
+    "description": "Left Bloc coordinator and international relations professor. He links his Catholic faith to social justice and advocates public services, human rights, democratic pluralism and a culture of peace."
+  },
+  {
+    "id": "luis-montenegro",
+    "name": "Luís Montenegro",
+    "role": "PSD president",
+    "lifespan": "1973–",
+    "description": "Portugal’s prime minister and PSD leader. Advocates private enterprise, lower taxes and social protection, regulated immigration and European integration, combining stronger security with moderate conservatism."
+  },
+  {
+    "id": "mariana-leitao",
+    "name": "Mariana Leitão",
+    "role": "Liberal Initiative president",
+    "lifespan": "1982–",
+    "description": "Leader of Portugal’s Liberal Initiative. Advocates competition, freedom of choice, lower taxes and state reform, alongside individual rights, regulated immigration, European integration and modernised defence."
+  },
+  {
+    "id": "mariana-mortagua",
+    "name": "Mariana Mortágua",
+    "role": "Former Left Bloc coordinator",
+    "description": "Economist and former Left Bloc coordinator. She challenges financial concentration and austerity, advocating redistributive taxation, public services, affordable housing and equal rights."
+  },
+  {
+    "id": "nuno-melo",
+    "name": "Nuno Melo",
+    "role": "CDS–People’s Party leader",
+    "description": "CDS–People’s Party leader since 2022 and defence minister since 2024. A Christian democrat combining markets and social protection with national defence, Atlantic alliances, regulated immigration and opposition to euthanasia."
+  },
+  {
+    "id": "paulo-raimundo",
+    "name": "Paulo Raimundo",
+    "role": "Portuguese Communist leader",
+    "description": "Portuguese Communist Party secretary-general since 2022. Advocates higher wages, public services, public control of strategic sectors and productive sovereignty, immigrant rights, secularism and opposition to militarisation and NATO dependence."
   }
 ]

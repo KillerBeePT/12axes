@@ -1,0 +1,17 @@
+--- SEM FILTRO DE RELIGIAO ---
+
+=== TOP 2 PERSONALIDADES ===
+98.2%  Salvador Allende (allende)
+97.2%  Bernie Sanders (bernie-sanders)
+
+=== TOP 2 IDEOLOGIAS ===
+97.9%  Socialismo Democrático (socialismo-democratico)
+95.0%  Socialismo Luxemburguista (socialismo-luxemburguista)
+
+=== TOP 2 PAISES ===
+97.1%  Chile de Allende (chile-de-allende)
+92.7%  País de Gales (Reino Unido) (pais-de-gales)
+
+=== TOP 2 PARTIDOS E ORGANIZACOES ===
+97.3%  A Esquerda (Die Linke) (die-linke)
+96.7%  Sinn Féin (sinn-fein)

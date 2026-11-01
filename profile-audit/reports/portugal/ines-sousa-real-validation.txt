@@ -1,0 +1,46 @@
+validando personality:ines-sousa-real
+  C:\Users\rui_f\Documents\Codex\2026-10-31\https-github-com-romancypherpunk-12axes-https-2\work\12axes\profile-audit\subagent-out\personality\ines-sousa-real.json
+
+[ARQUETIPO] sociedade D · poder C · economia C · mundo C · tecnologia B
+[NEUTROS] total 3/240 = 1.2%
+[RELIGIAO] religiao=76.2 · religions=[]
+
+[CONTEUDO] vetor e direcao real dos eixos
+  eixo             valor  0 <--------> 100
+  estrutura         45.0  centralizado/unitario <-> descentralizado/federal
+  representacao     91.8  autocracia <-> democracia
+  poder             38.9  liberdade civil <-> ordem/vigilancia
+  imigracao         24.8  multicultural/aberto <-> assimilacionista/fechado
+  diplomacia        19.3  pacifista <-> militarista
+  intervencao       53.0  nacionalista assertivo <-> nao-intervencionista
+  economia          55.6  privado/mercado <-> publico/coletivo
+  controle          59.2  livre mercado <-> planejamento
+  comercio          52.0  livre comercio/globalista <-> protecionista
+  religiao          76.2  religioso <-> irreligioso/secular
+  moral             82.4  tradicionalista <-> progressista
+  tecnologia        24.0  biologia/naturalista <-> tecnofilo
+
+[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)
+  estrutura         45.0   | Josef Stálin=0 .. Murray Rothbard=96
+  representacao     91.8   | Kim Jong Un=6 .. José Mujica=86
+  poder             38.9   | Murray Rothbard=1 .. Josef Stálin=99
+  imigracao         24.8   | Justin Trudeau=22 .. Adolf Hitler=100
+  diplomacia        19.3   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100
+  intervencao       53.0   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71
+  economia          55.6   | Murray Rothbard=6 .. Josef Stálin=94
+  controle          59.2   | Murray Rothbard=5 .. Josef Stálin=100
+  comercio          52.0   | Milton Friedman=10 .. Adolf Hitler=96
+  religiao          76.2   | Ruhollah Khomeini=2 .. Josef Stálin=98
+  moral             82.4   | Francisco Franco=2 .. Michel Foucault=91
+  tecnologia        24.0   | Ted Kaczynski=5 .. Ray Kurzweil=86
+
+[CONTEUDO] mais proximos em personality (duplicata?)
+   96.0%  carlos-drummond-de-andrade  <<< aviso
+   95.5%  yamandu-orsi  <<< aviso
+   95.5%  justin-trudeau  <<< aviso
+
+AVISOS (nao bloqueiam, mas confira):
+  [CONTEUDO] 96.0% proximo de 'carlos-drummond-de-andrade'
+  [CONTEUDO] 95.5% proximo de 'yamandu-orsi'
+  [CONTEUDO] 95.5% proximo de 'justin-trudeau'
+OK - passou nas tres checagens.

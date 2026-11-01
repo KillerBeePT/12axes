@@ -1,0 +1,46 @@
+validando personality:jose-manuel-pureza
+  C:\Users\rui_f\Documents\Codex\2026-10-31\https-github-com-romancypherpunk-12axes-https-2\work\12axes\profile-audit\subagent-out\personality\jose-manuel-pureza.json
+
+[ARQUETIPO] sociedade F · poder C · economia B · mundo C · tecnologia C
+[NEUTROS] total 4/240 = 1.7%
+[RELIGIAO] religiao=44.0 · religions=['catholic']
+
+[CONTEUDO] vetor e direcao real dos eixos
+  eixo             valor  0 <--------> 100
+  estrutura         42.6  centralizado/unitario <-> descentralizado/federal
+  representacao     94.2  autocracia <-> democracia
+  poder             34.1  liberdade civil <-> ordem/vigilancia
+  imigracao         19.3  multicultural/aberto <-> assimilacionista/fechado
+  diplomacia         8.6  pacifista <-> militarista
+  intervencao       75.6  nacionalista assertivo <-> nao-intervencionista
+  economia          89.3  privado/mercado <-> publico/coletivo
+  controle          87.7  livre mercado <-> planejamento
+  comercio          63.3  livre comercio/globalista <-> protecionista
+  religiao          44.0  religioso <-> irreligioso/secular
+  moral             78.4  tradicionalista <-> progressista
+  tecnologia        34.5  biologia/naturalista <-> tecnofilo
+
+[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)
+  estrutura         42.6   | Josef Stálin=0 .. Murray Rothbard=96
+  representacao     94.2   | Kim Jong Un=6 .. José Mujica=86
+  poder             34.1   | Murray Rothbard=1 .. Josef Stálin=99
+  imigracao         19.3   | Justin Trudeau=22 .. Adolf Hitler=100
+  diplomacia         8.6   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100
+  intervencao       75.6   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71
+  economia          89.3   | Murray Rothbard=6 .. Josef Stálin=94
+  controle          87.7   | Murray Rothbard=5 .. Josef Stálin=100
+  comercio          63.3   | Milton Friedman=10 .. Adolf Hitler=96
+  religiao          44.0   | Ruhollah Khomeini=2 .. Josef Stálin=98
+  moral             78.4   | Francisco Franco=2 .. Michel Foucault=91
+  tecnologia        34.5   | Ted Kaczynski=5 .. Ray Kurzweil=86
+
+[CONTEUDO] mais proximos em personality (duplicata?)
+   96.8%  karl-polanyi  <<< aviso
+   96.5%  paulo-raimundo  <<< aviso
+   96.4%  leonardo-boff  <<< aviso
+
+AVISOS (nao bloqueiam, mas confira):
+  [CONTEUDO] 96.8% proximo de 'karl-polanyi'
+  [CONTEUDO] 96.5% proximo de 'paulo-raimundo'
+  [CONTEUDO] 96.4% proximo de 'leonardo-boff'
+OK - passou nas tres checagens.

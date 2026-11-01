@@ -1,0 +1,17 @@
+--- FILTRO DE RELIGIAO: catholic (usuario que escolheu catholic) ---
+
+=== TOP 2 PERSONALIDADES ===
+95.7%  Éric Zemmour (eric-zemmour)
+94.6%  Henry Clay Frick (henry-clay-frick)
+
+=== TOP 2 IDEOLOGIAS ===
+96.0%  Conservadorismo Nacional (conservadorismo-nacional)
+95.3%  Nacionalismo de Direita (nacionalismo-de-direita)
+
+=== TOP 2 PAISES ===
+93.9%  Polônia (polonia)
+92.6%  Roma Republicana (roma-republicana)
+
+=== TOP 2 PARTIDOS E ORGANIZACOES ===
+97.3%  Rozwój Plus (rozwoj-plus)
+96.1%  Irmãos da Itália (Fratelli d'Italia) (fratelli-ditalia)

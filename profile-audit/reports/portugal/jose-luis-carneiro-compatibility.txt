@@ -1,0 +1,17 @@
+--- FILTRO DE RELIGIAO: catholic (usuario que escolheu catholic) ---
+
+=== TOP 2 PERSONALIDADES ===
+98.2%  Andy Burnham (andy-burnham)
+96.8%  Barack Obama (barack-obama)
+
+=== TOP 2 IDEOLOGIAS ===
+95.2%  Centrismo Social (centrismo-social)
+93.6%  Liberalismo Pragmático (liberalismo-pragmatico)
+
+=== TOP 2 PAISES ===
+96.4%  Illinois (Estados Unidos) (eua-illinois)
+94.3%  Espanha (espanha)
+
+=== TOP 2 PARTIDOS E ORGANIZACOES ===
+96.2%  Partido Social-Democrata da Alemanha (SPD) (spd)
+96.0%  Partido Democrático (PD) (partido-democratico-italia)

@@ -1,8 +1,8 @@
 {
   "_comment": "Estado unico da auditoria pergunta-a-pergunta (240 perguntas / 12 eixos). Um objeto por catalogo. Veja README.md para o processo completo.",
-  "lastUpdated": "2026-10-30T01:43:49Z",
+  "lastUpdated": "2026-11-01T01:42:12Z",
   "personality": {
-    "totalProfiles": 667,
+    "totalProfiles": 679,
     "pending": [],
     "done": [
       "lenin",
@@ -671,7 +671,19 @@
       "ulysses-guimaraes",
       "jose-serra",
       "paulo-maluf",
-      "aecio-neves"
+      "aecio-neves",
+      "andre-ventura",
+      "antonio-costa",
+      "ines-sousa-real",
+      "joao-cotrim-figueiredo",
+      "jorge-pinto",
+      "jose-luis-carneiro",
+      "jose-manuel-pureza",
+      "luis-montenegro",
+      "mariana-leitao",
+      "mariana-mortagua",
+      "nuno-melo",
+      "paulo-raimundo"
     ],
     "lastUpdated": "2026-10-05T19:27:12Z",
     "audited": 509,

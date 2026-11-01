@@ -1,0 +1,17 @@
+--- FILTRO DE RELIGIAO: catholic (usuario que escolheu catholic) ---
+
+=== TOP 2 PERSONALIDADES ===
+95.9%  Sérgio Moro (sergio-moro)
+95.7%  Luís Montenegro (luis-montenegro)
+
+=== TOP 2 IDEOLOGIAS ===
+96.9%  Conservadorismo Pragmático (conservadorismo-pragmatico)
+94.1%  Centrismo Conservador (centrismo-conservador)
+
+=== TOP 2 PAISES ===
+95.5%  Lituânia (lituania)
+95.1%  Armênia (armenia)
+
+=== TOP 2 PARTIDOS E ORGANIZACOES ===
+95.4%  União Democrata-Cristã (CDU/CSU) (cdu-csu)
+94.7%  União Brasil (UNIÃO) (uniao-brasil)

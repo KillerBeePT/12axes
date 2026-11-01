@@ -1,0 +1,17 @@
+--- SEM FILTRO DE RELIGIAO ---
+
+=== TOP 2 PERSONALIDADES ===
+97.5%  Mariana Leitão (mariana-leitao)
+96.7%  Paul Romer (paul-romer)
+
+=== TOP 2 IDEOLOGIAS ===
+98.1%  Liberalismo (liberalismo)
+97.7%  Neoliberalismo (neoliberalismo)
+
+=== TOP 2 PAISES ===
+94.8%  São Paulo (Brasil) (sao-paulo)
+94.4%  Nevada (Estados Unidos) (eua-nevada)
+
+=== TOP 2 PARTIDOS E ORGANIZACOES ===
+98.5%  Partido Democrático Liberal (FDP) (fdp)
+97.1%  Partido Novo (NOVO) (partido-novo)

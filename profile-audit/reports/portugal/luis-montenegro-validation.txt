@@ -1,0 +1,46 @@
+validando personality:luis-montenegro
+  C:\Users\rui_f\Documents\Codex\2026-10-31\https-github-com-romancypherpunk-12axes-https-2\work\12axes\profile-audit\subagent-out\personality\luis-montenegro.json
+
+[ARQUETIPO] sociedade C · poder C · economia C · mundo B · tecnologia D
+[NEUTROS] total 3/240 = 1.2%
+[RELIGIAO] religiao=56.4 · religions=[]
+
+[CONTEUDO] vetor e direcao real dos eixos
+  eixo             valor  0 <--------> 100
+  estrutura         33.1  centralizado/unitario <-> descentralizado/federal
+  representacao     87.0  autocracia <-> democracia
+  poder             49.6  liberdade civil <-> ordem/vigilancia
+  imigracao         53.1  multicultural/aberto <-> assimilacionista/fechado
+  diplomacia        42.1  pacifista <-> militarista
+  intervencao       35.2  nacionalista assertivo <-> nao-intervencionista
+  economia          47.2  privado/mercado <-> publico/coletivo
+  controle          35.4  livre mercado <-> planejamento
+  comercio          27.0  livre comercio/globalista <-> protecionista
+  religiao          56.4  religioso <-> irreligioso/secular
+  moral             40.7  tradicionalista <-> progressista
+  tecnologia        52.2  biologia/naturalista <-> tecnofilo
+
+[CONTEUDO] ancoras de referencia (para conferir se o lado faz sentido)
+  estrutura         33.1   | Josef Stálin=0 .. Murray Rothbard=96
+  representacao     87.0   | Kim Jong Un=6 .. José Mujica=86
+  poder             49.6   | Murray Rothbard=1 .. Josef Stálin=99
+  imigracao         53.1   | Justin Trudeau=22 .. Adolf Hitler=100
+  diplomacia        42.1   | Dalai Lama (Tenzin Gyatso)=2 .. Adolf Hitler=100
+  intervencao       35.2   | Adolf Hitler=10 .. Dalai Lama (Tenzin Gyatso)=71
+  economia          47.2   | Murray Rothbard=6 .. Josef Stálin=94
+  controle          35.4   | Murray Rothbard=5 .. Josef Stálin=100
+  comercio          27.0   | Milton Friedman=10 .. Adolf Hitler=96
+  religiao          56.4   | Ruhollah Khomeini=2 .. Josef Stálin=98
+  moral             40.7   | Francisco Franco=2 .. Michel Foucault=91
+  tecnologia        52.2   | Ted Kaczynski=5 .. Ray Kurzweil=86
+
+[CONTEUDO] mais proximos em personality (duplicata?)
+   95.7%  nuno-melo  <<< aviso
+   95.4%  henri-bergson  <<< aviso
+   95.2%  lee-teng-hui  <<< aviso
+
+AVISOS (nao bloqueiam, mas confira):
+  [CONTEUDO] 95.7% proximo de 'nuno-melo'
+  [CONTEUDO] 95.4% proximo de 'henri-bergson'
+  [CONTEUDO] 95.2% proximo de 'lee-teng-hui'
+OK - passou nas tres checagens.

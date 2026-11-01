@@ -4006,5 +4006,89 @@
       "pt": "",
       "en": ""
     }
+  },
+  {
+    "personalityId": "antonio-costa",
+    "title": {
+      "pt": "Caminho Aberto",
+      "en": "Caminho Aberto"
+    },
+    "year": 2012,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "joao-cotrim-figueiredo",
+    "title": {
+      "pt": "Porque Sou Liberal",
+      "en": "Porque Sou Liberal"
+    },
+    "year": 2025,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "jorge-pinto",
+    "title": {
+      "pt": "A Liberdade dos Futuros: Ecorrepublicanismo para o Século XXI",
+      "en": "A Liberdade dos Futuros: Ecorrepublicanismo para o Século XXI"
+    },
+    "year": 2021,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "jose-luis-carneiro",
+    "title": {
+      "pt": "Vencer os Tempos",
+      "en": "Vencer os Tempos"
+    },
+    "year": 2026,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "jose-manuel-pureza",
+    "title": {
+      "pt": "Linhas Vermelhas: Crítica da Crise-como-Política",
+      "en": "Linhas Vermelhas: Crítica da Crise-como-Política"
+    },
+    "year": 2015,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "mariana-mortagua",
+    "title": {
+      "pt": "Manual de Economia Política",
+      "en": "Manual de Economia Política"
+    },
+    "year": 2021,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
+  },
+  {
+    "personalityId": "nuno-melo",
+    "title": {
+      "pt": "Direito de Oposição",
+      "en": "Direito de Oposição"
+    },
+    "year": 2019,
+    "url": {
+      "pt": "",
+      "en": ""
+    }
   }
 ]

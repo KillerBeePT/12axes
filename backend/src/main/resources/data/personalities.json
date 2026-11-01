@@ -9455,5 +9455,169 @@
     "imageSourceUrl": "https://www.congressoemfoco.com.br",
     "imageNote": "Retrato de Felipe d'Avila via Congresso em Foco.",
     "religions": []
+  },
+  {
+    "id": "andre-ventura",
+    "name": "André Ventura",
+    "role": "Fundador do Chega",
+    "category": "politico",
+    "lifespan": "1983–",
+    "description": "Fundador e líder do Chega em Portugal. Defende controlo migratório, penas mais duras, família tradicional e identidade cristã, combinando redução de impostos com apoios sociais e proteção de setores nacionais.",
+    "imagePath": "/personalities/portraits/andre-ventura.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9_Ventura_-_LUSA_2025.jpg",
+    "imageNote": "Agência LUSA; CC BY 4.0, https://creativecommons.org/licenses/by/4.0/; recompressão.",
+    "religions": [
+      "catholic"
+    ]
+  },
+  {
+    "id": "antonio-costa",
+    "name": "António Costa",
+    "role": "Presidente do Conselho Europeu",
+    "category": "politico",
+    "lifespan": "1961–",
+    "description": "Primeiro-ministro de Portugal entre 2015 e 2024 e presidente do Conselho Europeu desde 2024. Combina serviços públicos, redistribuição e disciplina orçamental com integração europeia, direitos civis e economia de mercado.",
+    "imagePath": "/personalities/portraits/antonio-costa.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Antonio_Costa_Portrait_2024_(cropped).jpg",
+    "imageNote": "Frédéric Sierakowski / Conselho Europeu. © União Europeia, reutilização com atribuição. Retrato de 2024, recortado na fonte; redimensionado e comprimido.",
+    "religions": []
+  },
+  {
+    "id": "ines-sousa-real",
+    "name": "Inês de Sousa Real",
+    "role": "Porta-voz do PAN",
+    "category": "politico",
+    "lifespan": "1980–",
+    "description": "Porta-voz do PAN e deputada portuguesa. Jurista ligada à proteção animal, defende justiça social e ambiental, direitos fundamentais, alimentação sustentável e regulação ética da inteligência artificial.",
+    "imagePath": "/personalities/portraits/ines-sousa-real.jpg",
+    "imageSourceName": "Wikimedia Commons / Esquerda.net",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:In%C3%AAs_Sousa_Real_em_2024_(cropped).jpg",
+    "imageNote": "Retrato de Inês de Sousa Real. Autor: Esquerda.net. Licença: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0). Redimensionado e comprimido para apresentação.",
+    "religions": []
+  },
+  {
+    "id": "joao-cotrim-figueiredo",
+    "name": "João Cotrim de Figueiredo",
+    "role": "Ex-líder da Iniciativa Liberal",
+    "category": "politico",
+    "lifespan": "1961–",
+    "description": "Liderou a Iniciativa Liberal entre 2019 e 2023 e tornou-se eurodeputado em 2024. Defende concorrência nos serviços, impostos menores, integração europeia e liberdades individuais, incluindo direitos civis e morte assistida.",
+    "imagePath": "/personalities/portraits/joao-cotrim-figueiredo.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:1718281800993_20240611_COTRIM_DE_FIGUEIREDO_Joao_Fernando_PT_002.jpg",
+    "imageNote": "© União Europeia 2024 — Fonte: Parlamento Europeu. Reutilização segundo a licença do Parlamento Europeu indicada no Commons; redimensionado e comprimido.",
+    "religions": []
+  },
+  {
+    "id": "jorge-pinto",
+    "name": "Jorge Pinto",
+    "role": "Co-porta-voz do Livre",
+    "category": "politico",
+    "lifespan": "1987–",
+    "description": "Co-porta-voz do Livre e deputado português. Teórico do ecorrepublicanismo, defende liberdade sem dominação, rendimento básico, limites ecológicos e participação cidadã na integração europeia.",
+    "imagePath": "/personalities/portraits/jorge-pinto.jpg",
+    "imageSourceName": "Wikimedia Commons / Agência LUSA",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:LUSA_Jorge_Pinto_2025.jpg",
+    "imageNote": "Retrato de Jorge Pinto. Autor: Agência LUSA. Licença: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0). Redimensionado e comprimido para apresentação.",
+    "religions": []
+  },
+  {
+    "id": "jose-luis-carneiro",
+    "name": "José Luís Carneiro",
+    "role": "Secretário-geral do PS",
+    "category": "politico",
+    "lifespan": "1971–",
+    "description": "Líder do Partido Socialista português e ex-ministro da Administração Interna. Defende serviços públicos, mercado regulado, descentralização e integração europeia, com diálogo institucional e humanismo cristão.",
+    "imagePath": "/personalities/portraits/jose-luis-carneiro.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Luis_Carneiro.jpg",
+    "imageNote": "Teixeirafilipa; CC BY-SA 4.0, https://creativecommons.org/licenses/by-sa/4.0/; redimensionamento e recompressão, sob a mesma licença.",
+    "religions": [
+      "catholic"
+    ]
+  },
+  {
+    "id": "jose-manuel-pureza",
+    "name": "José Manuel Pureza",
+    "role": "Coordenador do BE",
+    "category": "politico",
+    "lifespan": "1958–",
+    "description": "Coordenador do Bloco de Esquerda e professor de Relações Internacionais. Liga a sua fé católica à justiça social; defende serviços públicos, direitos humanos, pluralismo democrático e uma cultura de paz.",
+    "imagePath": "/personalities/portraits/jose-manuel-pureza.jpg",
+    "imageSourceName": "Wikimedia Commons / Esquerda.net",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jos%C3%A9_Manuel_Pureza_cabe%C3%A7a_de_lista_por_Coimbra_(3876866098).jpg",
+    "imageNote": "Retrato de José Manuel Pureza. Autor: Esquerda.net. Licença: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0). Redimensionado e comprimido para apresentação.",
+    "religions": [
+      "catholic"
+    ]
+  },
+  {
+    "id": "luis-montenegro",
+    "name": "Luís Montenegro",
+    "role": "Presidente do PSD",
+    "category": "politico",
+    "lifespan": "1973–",
+    "description": "Primeiro-ministro de Portugal e líder do PSD. Defende iniciativa privada, redução fiscal e proteção social, imigração regulada e integração europeia, combinando reforço da segurança com conservadorismo moderado.",
+    "imagePath": "/personalities/portraits/luis-montenegro.jpg",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lu%C3%ADs_Montenegro_2024.jpg",
+    "imageNote": "Goncalo Shox; CC0 1.0; redimensionamento e recompressão.",
+    "religions": []
+  },
+  {
+    "id": "mariana-leitao",
+    "name": "Mariana Leitão",
+    "role": "Presidente da IL",
+    "category": "politico",
+    "lifespan": "1982–",
+    "description": "Líder da Iniciativa Liberal em Portugal. Defende concorrência, liberdade de escolha, redução fiscal e reforma do Estado, com direitos individuais, imigração regulada, integração europeia e modernização da defesa.",
+    "imagePath": "/personalities/portraits/mariana-leitao.png",
+    "imageSourceName": "Wikimedia Commons / Wikipédia",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mariana_Leit%C3%A3o%2C_IX_Conven%C3%A7%C3%A3o_Nacional_da_IL_%28Ag%C3%AAncia_Lusa%29.png",
+    "imageNote": "Agência Lusa; CC BY 3.0, https://creativecommons.org/licenses/by/3.0/; recompressão PNG.",
+    "religions": []
+  },
+  {
+    "id": "mariana-mortagua",
+    "name": "Mariana Mortágua",
+    "role": "Ex-coordenadora do BE",
+    "category": "politico",
+    "lifespan": "1986–",
+    "description": "Economista e antiga coordenadora do Bloco de Esquerda. Combate a concentração financeira e a austeridade, defendendo tributação redistributiva, serviços públicos, habitação acessível e igualdade de direitos.",
+    "imagePath": "/personalities/portraits/mariana-mortagua.jpg",
+    "imageSourceName": "Wikimedia Commons / Esquerda.net",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mariana_Mort%C3%A1gua_(53527512817).jpg",
+    "imageNote": "Retrato de Mariana Mortágua. Autor: Esquerda.net. Licença: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0). Redimensionado e comprimido para apresentação.",
+    "religions": []
+  },
+  {
+    "id": "nuno-melo",
+    "name": "Nuno Melo",
+    "role": "Líder do CDS-PP",
+    "category": "politico",
+    "lifespan": "1966–",
+    "description": "Líder do CDS-PP desde 2022 e ministro da Defesa desde 2024. Democrata-cristão, combina economia de mercado e proteção social com defesa nacional, alianças atlânticas, integração regulada da imigração e oposição à eutanásia.",
+    "imagePath": "/personalities/portraits/nuno-melo.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:EPP_Political_Assembly,_17-18_November,_Lisbon_(52505706862)_(cropped).jpg",
+    "imageNote": "European People’s Party, CC BY 2.0. Retrato de assembleia política em Lisboa, 2022; recorte existente no Commons, redimensionado e comprimido.",
+    "religions": [
+      "catholic"
+    ]
+  },
+  {
+    "id": "paulo-raimundo",
+    "name": "Paulo Raimundo",
+    "role": "Secretário-geral do PCP",
+    "category": "politico",
+    "lifespan": "1976–",
+    "description": "Secretário-geral do PCP desde 2022. Defende salários e serviços públicos, controlo público de setores estratégicos e soberania produtiva, com direitos dos imigrantes, laicidade e oposição à militarização e subordinação à NATO.",
+    "imagePath": "/personalities/portraits/paulo-raimundo.jpg",
+    "imageSourceName": "Wikimedia Commons",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Debate_com_Paulo_Raimundo,_Sic_Not%C3%ADcias,_Fev.2024_(53523469602)_(cropped).jpg",
+    "imageNote": "Esquerda.net, CC BY-SA 2.0. Retrato de debate em fevereiro de 2024; recorte existente no Commons, redimensionado e comprimido. Mantém-se a mesma licença.",
+    "religions": []
   }
 ]
